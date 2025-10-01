@@ -105,8 +105,7 @@ body {
 
 /* Hero Section */
 .hero {
-    /* background-image: url('bg_coding_image.png'); */
-    background-color: red;
+    background-image: url('bg_coding_image.png');
     min-height: 100vh;
     display: flex;
     align-items: center;
